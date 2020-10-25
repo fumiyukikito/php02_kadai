@@ -31,7 +31,7 @@ if ($status==false) {
   }  
  
 }
-var_dump($view);
+
 
 ?>
 
